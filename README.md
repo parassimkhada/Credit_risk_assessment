@@ -122,5 +122,3 @@ Platinum Card: The user is eligible if they are predicted to be "Paid," have "N"
 Standard Card: The user is eligible if they are predicted to be "Paid," have "N" for default, an income of at least 40,000 NPR, and a loan percentage of income under 40%.
 
 Not Eligible: If the user doesn't meet the criteria for a Standard or Platinum card, or if their loan is predicted as "Not Paid," or they have a default on file.
-
-
